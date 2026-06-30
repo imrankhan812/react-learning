@@ -21,3 +21,8 @@ Jab 2 ya us se zyada states ko ek sath update karna ho, to arrow `=>` ke baad **
       setCounter(5);     // Kaam #1
       setIncrease(10);   // Kaam #2
   }}
+## 4. Toggle Concept & Real-World Uses
+Toggle ka matlab hai ek hi state ko ON/OFF ya True/False mein switch karna.
+* **Mobile Navbar:** Button click par menu ka show aur hide hona.
+* **Dark Mode:** Light aur dark theme ke darmiyan switch karna.
+* **FAQs Section:** Sawal par click karne se jawab ka open aur close hona.
