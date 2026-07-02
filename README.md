@@ -26,3 +26,10 @@ Toggle ka matlab hai ek hi state ko ON/OFF ya True/False mein switch karna.
 * **Mobile Navbar:** Button click par menu ka show aur hide hona.
 * **Dark Mode:** Light aur dark theme ke darmiyan switch karna.
 * **FAQs Section:** Sawal par click karne se jawab ka open aur close hona.
+* # React useState Concept
+
+React mein `useState` tab use hota hai jab hum chahte hain ke variable ki value badalne par **screen bhi automatic update (render) ho**.
+
+## Syntax:
+```jsx
+const [count, setCount] = useState(0);
